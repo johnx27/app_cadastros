@@ -1,9 +1,10 @@
 import psycopg2
 from tkinter import *
 
-dbname   = 'python1'
-user     = 'postgres'
-password = '99695421'
+#conexao co  polstgres
+dbname   = 'sua database'
+user     = 'user'
+password = 'sua senha'
 host     = 'localhost'
 port     = '5432' 
 
